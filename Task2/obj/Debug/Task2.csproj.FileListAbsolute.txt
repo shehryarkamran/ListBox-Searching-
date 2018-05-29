@@ -1,0 +1,10 @@
+D:\Visual programming\Task2\Task2\bin\Debug\Task2.exe.config
+D:\Visual programming\Task2\Task2\bin\Debug\Task2.exe
+D:\Visual programming\Task2\Task2\bin\Debug\Task2.pdb
+D:\Visual programming\Task2\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+D:\Visual programming\Task2\Task2\obj\Debug\Task2.Form1.resources
+D:\Visual programming\Task2\Task2\obj\Debug\Task2.Properties.Resources.resources
+D:\Visual programming\Task2\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+D:\Visual programming\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+D:\Visual programming\Task2\Task2\obj\Debug\Task2.exe
+D:\Visual programming\Task2\Task2\obj\Debug\Task2.pdb
